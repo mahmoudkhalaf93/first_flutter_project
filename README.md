@@ -248,4 +248,14 @@ Potential features for expansion:
 - 🌙 Dark mode support
 
 <img width="925" height="943" alt="5" src="https://github.com/user-attachments/assets/cecc771f-703f-429f-95ef-50fae3444295" />
+<img width="926" height="905" alt="6" src="https://github.com/user-attachments/assets/4321786d-9fff-483a-8eeb-4ec74aedfd56" />
+<img width="924" height="901" alt="7" src="https://github.com/user-attachments/assets/bd3c9ebc-46c0-4045-9df6-06fe1b0a3397" />
+<img width="608" height="462" alt="8" src="https://github.com/user-attachments/assets/754e91c0-8ee9-49bd-aae3-657fa650c0c4" />
+<img width="548" height="911" alt="9" src="https://github.com/user-attachments/assets/6b096d3d-9b6f-4ea6-8693-3d18daae6574" />
+<img width="548" height="911" alt="10" src="https://github.com/user-attachments/assets/dae6cc6e-384e-4760-876a-f4e6e97e7b8c" />
+
+
+
+
+
 
