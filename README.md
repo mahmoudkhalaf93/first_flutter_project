@@ -247,30 +247,5 @@ Potential features for expansion:
 - 💾 Local database integration
 - 🌙 Dark mode support
 
-## Code Formatting
+<img width="925" height="943" alt="5" src="https://github.com/user-attachments/assets/cecc771f-703f-429f-95ef-50fae3444295" />
 
-All code follows Dart style guidelines and has been formatted using:
-
-```bash
-dart format .
-```
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
-
-Created as a comprehensive Flutter learning project demonstrating fundamental to intermediate Flutter development concepts.
-
-## Support
-
-For questions or issues, please create an issue in the repository or refer to the Flutter documentation at https://flutter.dev
-
----
-
-**Happy Coding! 🚀**
-
-Last Updated: August 2024
-Flutter Version: 3.47.0
-Dart Version: 3.13.0
